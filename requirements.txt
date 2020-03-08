@@ -3,4 +3,4 @@
 conda install pytorch=0.4.1 torchvision=0.2.1 -c pytorch
 pip install tensorboardX==1.4
 //octomap 
-Installation: Dependency: opencv - sudo apt-get install libopencv-dev boost - sudo apt-get install libboost-all-dev pcl - follow
+Installation: Dependency: opencv - sudo apt-get install libopencv-dev boost - sudo apt-get install libboost-all-dev pcl 
